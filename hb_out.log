@@ -1,0 +1,13 @@
+Application Internal Error - C:\Users\gheysiell\Documents\learning\request_sample\only_email.exe
+Terminated at: 2022-09-10 08:24:46
+Unrecoverable error 9023: hb_xgrab requested to allocate zero bytes
+Called from FREADSTR(0)
+Called from CALL_WEBSERVICE(18) in C:\Users\gheysiell\Documents\learning\request_sample\Main.Prg
+Called from (b)MAIN(11) in C:\Users\gheysiell\Documents\learning\request_sample\Main.Prg
+Called from _DOCONTROLEVENTPROCEDURE(6056) in source\h_windows.prg
+Called from EVENTS(1801) in source\h_windows.prg
+Called from DOMESSAGELOOP(0)
+Called from _ACTIVATEWINDOW(5717) in source\h_windows.prg
+Called from DOMETHOD(9003) in source\h_controlmisc.prg
+Called from MAIN(7) in C:\Users\gheysiell\Documents\learning\request_sample\Main.Prg
+------------------------------------------------------------------------
